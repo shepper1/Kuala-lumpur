@@ -1,0 +1,145 @@
+{
+  "pays": "Malaisie",
+  "drapeau": "🇲🇾",
+  "symbole": "🌺",
+  "titre": "Kuala Lumpur : Entre Tradition et Modernité",
+  "budget": "1500€",
+  "duree": "4 jours",
+  "temps_vol": "Environ 13h de vol direct",
+  "jours": [
+    {
+      "jour": 1,
+      "symbole": "🛬",
+      "titre": "Arrivée et Douceur Tropicale",
+      "legende": "Après un long vol, cette première journée est dédiée à une acclimatation en douceur. Installez-vous tranquillement à votre hôtel avant une première immersion dans l'atmosphère de la ville. La soirée offre un spectacle inoubliable avec la découverte des emblématiques Tours Petronas, qui s'illuminent majestueusement à la nuit tombée, une introduction parfaite à la magie de Kuala Lumpur.",
+      "lieu": "Kuala Lumpur",
+      "activites": [
+        "🚶‍♂️ <strong>Balade au parc KLCC et vue sur les Tours Petronas</strong>: Découvrez le poumon vert de la ville et admirez le spectacle des tours jumelles illuminées. C'est une introduction parfaite à l'ambiance de Kuala Lumpur sans effort."
+      ],
+      "illustration": "jour1.jpg",
+      "encarts": [
+        {
+          "symbole": "🚖",
+          "titre": "Transport aéroport",
+          "texte": "Utilisez l'application Grab (équivalent d'Uber) ou le train KLIA Ekspres pour un trajet rapide et économique vers le centre-ville."
+        },
+        {
+          "symbole": "💧",
+          "titre": "Hydratation",
+          "texte": "Le climat est chaud et humide. Pensez à boire beaucoup d'eau tout au long de la journée pour rester hydraté."
+        }
+      ]
+    },
+    {
+      "jour": 2,
+      "symbole": "🗼",
+      "titre": "Spiritualité et Panoramas Vertigineux",
+      "legende": "Cette journée combine une immersion spirituelle et une prise de hauteur spectaculaire. Le matin, partez à la découverte du site sacré des Grottes de Batu, un lieu de pèlerinage hindou impressionnant. L'après-midi sera consacrée à l'ascension des célèbres Tours Petronas pour contempler un panorama urbain à couper le souffle, offrant une perspective unique sur la métropole tentaculaire.",
+      "lieu": "Kuala Lumpur",
+      "activites": [
+        "🐒 <strong>Visite des Grottes de Batu</strong>: Gravissez les 272 marches colorées pour atteindre ce sanctuaire hindou spectaculaire, gardé par une immense statue dorée. Attention aux singes chapardeurs qui peuplent le site !",
+        "🏙️ <strong>Ascension des Tours Petronas</strong>: Montez sur la passerelle d'acier reliant les deux tours puis au 86ème étage pour une vue imprenable sur la ville. Une expérience inoubliable au-dessus des nuages."
+      ],
+      "illustration": "jour2.jpg",
+      "encarts": [
+        {
+          "symbole": "🎟️",
+          "titre": "Réservation obligatoire",
+          "texte": "Les billets pour les Tours Petronas sont très demandés. Réservez-les en ligne plusieurs semaines à l'avance pour choisir votre créneau."
+        },
+        {
+          "symbole": "👗",
+          "titre": "Tenue correcte exigée",
+          "texte": "Pour visiter les Grottes de Batu, un lieu de culte, couvrez vos genoux et vos épaules. Des sarongs sont disponibles à la location sur place."
+        }
+      ]
+    },
+    {
+      "jour": 3,
+      "symbole": "🕌",
+      "titre": "Cœur Historique et Effervescence des Marchés",
+      "legende": "Plongez au cœur de l'histoire et de la culture de Kuala Lumpur. La journée débute sur la Place de l'Indépendance, témoin du passé colonial de la ville. Ensuite, laissez-vous emporter par l'ambiance trépidante de Chinatown et du Central Market, où les odeurs, les couleurs et les saveurs se mélangent pour une expérience sensorielle unique et authentique.",
+      "lieu": "Kuala Lumpur",
+      "activites": [
+        "🏛️ <strong>Exploration de Merdeka Square</strong>: Découvrez la Place de l'Indépendance, entourée de magnifiques bâtiments de l'époque coloniale comme le Sultan Abdul Samad Building. C'est ici que l'indépendance de la Malaisie a été proclamée.",
+        "🛍️ <strong>Flânerie à Central Market et Petaling Street</strong>: Imprégnez-vous de l'ambiance animée de Chinatown (Petaling Street) et trouvez des souvenirs artisanaux au Central Market. C'est l'endroit idéal pour goûter à la street food locale."
+      ],
+      "illustration": "jour3.jpg",
+      "encarts": [
+        {
+          "symbole": "🍜",
+          "titre": "Paradis de la Street Food",
+          "texte": "Le soir, ne manquez pas Jalan Alor, une rue entièrement dédiée à la nourriture de rue où vous pourrez déguster d'innombrables spécialités locales."
+        },
+        {
+          "symbole": "💰",
+          "titre": "Négociation",
+          "texte": "Dans les marchés comme Petaling Street, n'hésitez pas à négocier les prix poliment, cela fait partie de la culture locale du commerce."
+        }
+      ]
+    },
+    {
+      "jour": 4,
+      "symbole": "🦜",
+      "titre": "Oasis de Verdure et Derniers Souvenirs",
+      "legende": "Pour cette dernière journée, offrez-vous une parenthèse de nature en plein cœur de la ville. Le Parc des Oiseaux de Kuala Lumpur est une véritable oasis de tranquillité, parfaite pour s'évader de l'agitation urbaine. Profitez de ces derniers moments pour savourer un ultime repas malaisien avant de prendre le chemin de l'aéroport, la tête remplie de souvenirs.",
+      "lieu": "Kuala Lumpur",
+      "activites": [
+        "🦜 <strong>Visite du Parc des Oiseaux de Kuala Lumpur</strong>: Évadez-vous dans l'une des plus grandes volières à ciel ouvert du monde, abritant des milliers d'oiseaux en semi-liberté. Une expérience rafraîchissante au cœur de la jungle urbaine.",
+        "✈️ <strong>Départ</strong>: Profitez d'un dernier repas malaisien avant de vous diriger vers l'aéroport international de Kuala Lumpur (KLIA) pour votre vol retour."
+      ],
+      "illustration": "jour4.jpg",
+      "encarts": [
+        {
+          "symbole": "🛅",
+          "titre": "Consigne à bagages",
+          "texte": "Si votre vol est tard, de nombreux hôtels proposent une consigne. La gare KL Sentral dispose également de casiers payants."
+        }
+      ]
+    }
+  ],
+  "periodes_ideales": [
+    {
+      "titre": "Les périodes idéales pour ce séjour sont les mois de mars à septembre.",
+      "symbole": "☀️"
+    }
+  ],
+  "infos_pratiques": [
+    {
+      "titre": "Climat tropical chaud et humide toute l'année (environ 30°C). Prévoir des vêtements légers et un imperméable pour les averses soudaines.",
+      "symbole": "🌦️"
+    },
+    {
+      "titre": "La monnaie est le Ringgit malaisien (MYR). Le paiement par carte est courant mais prévoyez du liquide pour les marchés et la street food.",
+      "symbole": "💳"
+    },
+    {
+      "titre": "Le réseau de transport (LRT, Monorail) est efficace. L'application Grab est très pratique et abordable pour les trajets en taxi.",
+      "symbole": "🚗"
+    },
+    {
+      "titre": "Achetez une carte SIM locale (Hotlink, Celcom) à l'aéroport pour un accès facile à internet. Le Wifi est largement disponible.",
+      "symbole": "📶"
+    }
+  ],
+  "liens_utiles": [
+    {
+      "legende": "Infos officielles et inspirations",
+      "titre": "Tourism Malaysia",
+      "url": "https://www.malaysia.travel/",
+      "symbole": "📘"
+    },
+    {
+      "legende": "Horaires des transports en commun",
+      "titre": "MyRapid KL",
+      "url": "https://myrapid.com.my/",
+      "symbole": "🚆"
+    },
+    {
+      "legende": "Prévisions météo locales",
+      "titre": "MetMalaysia",
+      "url": "https://www.met.gov.my/en",
+      "symbole": "🌤️"
+    }
+  ]
+}
